@@ -108,5 +108,5 @@ body { padding-top: 50px; }
 *     Passions
 ******************************************/
 .passion{ color: #fff; display: inline-block; margin-right: 5px;
-          margin-bottom: 5px; padding: 5px 5px 5px 5px; background: #000;
+          margin-bottom: 5px; padding: 5px 5px 5px 5px; background: #00f1ff;
           position: relative; font-size: 1.2em; border-radius: 10px; }
